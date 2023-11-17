@@ -271,14 +271,14 @@ It is up to API consumers to parse the string into a decimal number representati
 Run the following command from your project directory to install the package from npm:
 
 ```ts
-npm install subtain-sdk-sdk@1.1.2
+npm install subtain-sdk-sdk@1.23.5
 ```
 
-For additional package details, see the [Npm page for the subtain-sdk-sdk@1.1.2 npm](https://www.npmjs.com/package/subtain-sdk-sdk/v/1.1.2).
+For additional package details, see the [Npm page for the subtain-sdk-sdk@1.23.5 npm](https://www.npmjs.com/package/subtain-sdk-sdk/v/1.23.5).
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -344,40 +344,40 @@ This API uses the following authentication schemes.
 
 ## List of APIs
 
-* [API Exports](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/api-exports.md)
-* [Advance Invoice](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/advance-invoice.md)
-* [Billing Portal](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/billing-portal.md)
-* [Custom Fields](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/custom-fields.md)
-* [Events-Based Billing Segments](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/events-based-billing-segments.md)
-* [Payment Profiles](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/payment-profiles.md)
-* [Product Families](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/product-families.md)
-* [Product Price Points](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/product-price-points.md)
-* [Proforma Invoices](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/proforma-invoices.md)
-* [Reason Codes](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/reason-codes.md)
-* [Referral Codes](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/referral-codes.md)
-* [Sales Commissions](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/sales-commissions.md)
-* [Subscription Components](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/subscription-components.md)
-* [Subscription Groups](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/subscription-groups.md)
-* [Subscription Group Invoice Account](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/subscription-group-invoice-account.md)
-* [Subscription Group Status](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/subscription-group-status.md)
-* [Subscription Invoice Account](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/subscription-invoice-account.md)
-* [Subscription Notes](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/subscription-notes.md)
-* [Subscription Products](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/subscription-products.md)
-* [Subscription Status](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/subscription-status.md)
-* [Coupons](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/coupons.md)
-* [Components](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/components.md)
-* [Customers](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/customers.md)
-* [Events](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/events.md)
-* [Insights](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/insights.md)
-* [Invoices](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/invoices.md)
-* [Offers](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/offers.md)
-* [Products](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/products.md)
-* [Sites](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/sites.md)
-* [Subscriptions](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/subscriptions.md)
-* [Webhooks](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/controllers/webhooks.md)
+* [API Exports](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/api-exports.md)
+* [Advance Invoice](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/advance-invoice.md)
+* [Billing Portal](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/billing-portal.md)
+* [Custom Fields](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/custom-fields.md)
+* [Events-Based Billing Segments](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/events-based-billing-segments.md)
+* [Payment Profiles](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/payment-profiles.md)
+* [Product Families](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/product-families.md)
+* [Product Price Points](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/product-price-points.md)
+* [Proforma Invoices](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/proforma-invoices.md)
+* [Reason Codes](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/reason-codes.md)
+* [Referral Codes](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/referral-codes.md)
+* [Sales Commissions](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/sales-commissions.md)
+* [Subscription Components](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/subscription-components.md)
+* [Subscription Groups](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/subscription-groups.md)
+* [Subscription Group Invoice Account](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/subscription-group-invoice-account.md)
+* [Subscription Group Status](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/subscription-group-status.md)
+* [Subscription Invoice Account](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/subscription-invoice-account.md)
+* [Subscription Notes](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/subscription-notes.md)
+* [Subscription Products](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/subscription-products.md)
+* [Subscription Status](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/subscription-status.md)
+* [Coupons](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/coupons.md)
+* [Components](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/components.md)
+* [Customers](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/customers.md)
+* [Events](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/events.md)
+* [Insights](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/insights.md)
+* [Invoices](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/invoices.md)
+* [Offers](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/offers.md)
+* [Products](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/products.md)
+* [Sites](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/sites.md)
+* [Subscriptions](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/subscriptions.md)
+* [Webhooks](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/controllers/webhooks.md)
 
 ## Classes Documentation
 
-* [ApiResponse](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/api-response.md)
-* [ApiError](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.1.2/doc/api-error.md)
+* [ApiResponse](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/api-response.md)
+* [ApiError](https://www.github.com/Syed-Subtain/subtain-sdk-js-sdk/tree/1.23.5/doc/api-error.md)
 
